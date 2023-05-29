@@ -9,7 +9,7 @@ Script 1: DR techniques and clustering algorithms
 In this script, by introducing a dataset and specifing the descriptors, you will be able to perform PCA, tSNE and UMAP (n=5,10 and 15)
 At the same time, by seting a number of k and n you can test information of the maps by kmeans and hierarchical clustering algorithms.
 
-At the end you will find the space called: Other useful tools, which as the name indicates, are pieces of code useful for the analysis 
+At the end you will find the space called: Other useful tools, which as the name indicates, are pieces of useful code for the analysis 
 of the maps; including: 
 - Filter by cluster and returing the id of the ligand
 - PCA biplot
