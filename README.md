@@ -1,6 +1,10 @@
 # BachelorThesis
 Scripts and data for the Bachelor Thesis report
 
+The data base used was created by Dr.Natalie Fey and Dr. Jesús Jover
+
+Dalton Trans., 2013, 42, 172–181
+
 Here you will find all the scripts that has been used in the Bachelor Thesis, and each of them is referenced in the report. 
 
 The data base used was created by Dr.Natalie Fey and Dr. Jesús Jover
